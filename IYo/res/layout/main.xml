@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/mainback"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/ImageTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/title" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <AutoCompleteTextView
+            android:id="@+id/editSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.96"
+            android:padding="1px"
+            android:paddingLeft="10px"
+            android:text="@string/NoNews" />
+
+        <ImageView
+            android:id="@+id/imageSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/searchbutton" />
+
+        <Button
+            android:id="@+id/buttonClassRoom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/classroom" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.85"
+        android:orientation="vertical" >
+
+        <com.google.android.maps.MapView
+            android:id="@+id/mainMap"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.82"
+            android:apiKey="0dIy_7aNvH417J4wGHNuTL-IUv_TGQfp64qg7DQ"
+            android:clickable="true"
+            android:enabled="true" >
+
+        </com.google.android.maps.MapView>
+    </LinearLayout>
+
+          <LinearLayout
+              android:id="@+id/linearLayout1"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" 
+              android:layout_margin="2px">
+
+              <HorizontalScrollView
+                  android:id="@+id/horizontalScrollView1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content" 
+                  android:scrollbars="none">
+
+                  <FrameLayout
+                      android:id="@+id/frameLayout1"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content" >
+
+                      <LinearLayout
+                          android:id="@+id/linearLayout3"
+                          android:layout_width="match_parent"
+                          android:layout_height="match_parent" 
+                          android:orientation="horizontal">
+                               <ImageView
+                  android:id="@+id/imageStudy"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                          android:layout_marginTop="7px"
+                  android:layout_marginLeft="5px"
+                  android:layout_marginBottom="3px"
+                  android:layout_marginRight="5px"
+                  android:src="@drawable/studying" />
+
+              <ImageView
+                  android:id="@+id/imageDining"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                          android:layout_marginTop="7px"
+                  android:layout_marginLeft="5px"
+                  android:layout_marginBottom="3px"
+                  android:layout_marginRight="5px"
+                  android:src="@drawable/dining" />
+
+
+
+
+
+              <ImageView
+                  android:id="@+id/imageAccomodation"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                          android:layout_marginTop="7px"
+                  android:layout_marginLeft="5px"
+                  android:layout_marginBottom="3px"
+                  android:layout_marginRight="5px"
+                  android:src="@drawable/accomodation" />
+
+
+
+
+
+               <ImageView
+                  android:id="@+id/imageEntertainment"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="7px"
+                  android:layout_marginLeft="5px"
+                  android:layout_marginBottom="3px"
+                  android:layout_marginRight="5px"
+                  
+                  android:src="@drawable/entertainment" />
+               <ImageView
+                  android:id="@+id/imageChuxing"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                          android:layout_marginTop="7px"
+                  android:layout_marginLeft="5px"
+                  android:layout_marginBottom="3px"
+                  android:layout_marginRight="5px"
+                  android:src="@drawable/chuxing" />
+               <ImageView
+                  android:id="@+id/imagePurchase"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                          android:layout_marginTop="7px"
+                  android:layout_marginLeft="5px"
+                  android:layout_marginBottom="3px"
+                  android:layout_marginRight="5px"
+                  android:src="@drawable/purchase" />
+                 <ImageView
+                  android:id="@+id/imageOffice"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                          android:layout_marginTop="7px"
+                  android:layout_marginLeft="5px"
+                  android:layout_marginBottom="3px"
+                  android:layout_marginRight="5px"
+                  android:src="@drawable/office" />
+              <ImageView
+                  android:id="@+id/imageMoreOptions"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                          android:layout_marginTop="7px"
+                  android:layout_marginLeft="5px"
+                  android:layout_marginBottom="3px"
+                  android:layout_marginRight="5px"
+                  android:src="@drawable/more" />
+
+             
+
+                      </LinearLayout>
+                      
+                  </FrameLayout>
+
+              </HorizontalScrollView>
+
+        </LinearLayout>
+        
+</LinearLayout>

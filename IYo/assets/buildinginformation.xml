@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <BuildingSet>
+   	<building>
+   	<number>0</number>
+    <name>主楼</name>
+    <leftLat>39.959567</leftLat>
+    <leftLong>116.351999</leftLong>
+    <rightLat>39.960248</rightLat>
+    <rightLong>116.352515</rightLong>
+    <opentime>7:00-23:00</opentime>
+    <introduction>北邮最高建筑物，共十五层，多为实验室和教师办公室，一些电子设计竞赛也常在此举办。</introduction>
+    <news>2011-12-28 教职工冬季长跑	2011-12-13 2012年度国家公派研究生项目答疑会	2011-12-9 十点以后到主楼801领取第28届全国部分地区大学生物理竞赛准考证</news>
+    </building>
+   	<building>
+   	<number>1</number>
+    <name>教一</name>
+    <leftLat>39.960386</leftLat>
+    <leftLong>116.351205</leftLong>
+    <rightLat>39.960712</rightLat>
+    <rightLong>116.352315</rightLong>
+    <opentime>7:00-23:00</opentime>
+    <introduction>语言学院教学楼，有语音机房，听说英语、情景英语都在教一上课。一层为校教务处。</introduction>
+    <news>2011-12-21 重庆邮电大学教务处来我校调研工作	2011-12-20 我校艺术类专业建设指导委员会召开专业建设工作会议	2011-10-25 四六级缴费在1-317</news>
+    </building>
+    <building>
+   	<number>2</number>
+    <name>教二</name>
+    <leftLat>39.958948</leftLat>
+    <leftLong>116.351316</leftLong>
+    <rightLat>39.959373</rightLat>
+    <rightLong>116.356172</rightLong>
+    <opentime>7:00-23:00</opentime>
+    <introduction>信息与通信工程学院教学楼。一到四层为教室和实验室，五层即天台，为考研自习室。</introduction>
+    <news>2011-11-21 电子工程学院国际学术期刊论文撰写与投稿学术讲座圆满结束	2011-11-6 邮政系统业务考试	2011-10-26 自动化学院班级评优</news>
+    </building>
+    <building>
+   	<number>3</number>
+    <name>教三</name>
+    <leftLat>39.958834</leftLat>
+    <leftLong>116.349552</leftLong>
+    <rightLat>39.95933</rightLat>
+    <rightLong>116.351047</rightLong>
+    <opentime>7:00-23:00</opentime>
+    <introduction>教三楼是学校211工程配套的重大基建项目，2003年正式投入使用，设施先进，是北京市最为现代化的教学楼之一。一至五层主要为教室，六至十四层主要为办公室。地下有实验室。</introduction>
+    <news>2011-12-27 学术讲座——R&amp;S的手机终端测试解决方案	2011-12-16至23 首届“勤勉杯”数字媒体艺术专业作品在教三一楼联展	2011-12-16 2011年度“校园十大先锋人物”评选表彰会</news>
+    </building>
+    <building>
+   	<number>4</number>
+    <name>教四</name>
+    <leftLat>39.960387</leftLat>
+    <leftLong>116.349405</leftLong>
+    <rightLat>39.960791</rightLat>
+    <rightLong>116.350905</rightLong>
+    <opentime>7:00-23:00</opentime>
+    <introduction>自动化学院和电子工程学院教学楼。</introduction>
+    <news>2011-12-8 电子工程学院召开学生工作会议	2011-11-26 北京邮电大学2011年团学骨干系列培训	2011-11-25 电子工程学院召开品牌课程建设动员会</news>
+    </building>
+    <building>
+   	<number>5</number>
+    <name>教九</name>
+    <leftLat>39.9628717</leftLat>
+    <leftLong>116.349784</leftLong>
+    <rightLat>39.96305</rightLat>
+    <rightLong>116.349915</rightLong>
+    <opentime>7:00-23:00</opentime>
+    <introduction>在学九的东侧，三层，每层一个教室，课程较少，多作自习室用。</introduction>
+    <news>2011-12-17 四六级考试	2011-12-16 因四六级考试清书</news>
+    </building>
+    <building>
+   	<number>6</number>
+    <name>学一</name>
+    <leftLat>39.960959</leftLat>
+    <leftLong>116.349331</leftLong>
+    <rightLat>39.961199</rightLat>
+    <rightLong>116.350061</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30）</opentime>
+    <introduction>本科生男生宿舍。</introduction>
+    <news>2011-12-6 宿舍总动员系列活动之宿舍作品征集大赛	2011-11-20 北京邮电大学“宿舍总动员”之宿舍开放日活动</news>
+    </building>
+    <building>
+   	<number>7</number>
+    <name>学二</name>
+    <leftLat>39.960914</leftLat>
+    <leftLong>116.350323</leftLong>
+    <rightLat>39.961203</rightLat>
+    <rightLong>116.35106</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30）</opentime>
+    <introduction>本科生男生宿舍。</introduction>
+    <news>2011-12-6 宿舍总动员系列活动之宿舍作品征集大赛	2011-11-20 北京邮电大学“宿舍总动员”之宿舍开放日活动</news>    </building>
+    <building>
+   	<number>8</number>
+    <name>学三</name>
+    <leftLat>39.961404</leftLat>
+    <leftLong>116.349347</leftLong>
+    <rightLat>39.961675</rightLat>
+    <rightLong>116.350077</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30）</opentime>
+    <introduction>研究生宿舍，六人间上床下桌。北侧地下有复印室、修鞋铺。</introduction>
+    <news>2011-12-6 宿舍总动员系列活动之宿舍作品征集大赛	2011-11-20 北京邮电大学“宿舍总动员”之宿舍开放日活动</news>    
+    </building>
+    <building>
+   	<number>9</number>
+    <name>学四</name>
+    <leftLat>39.961443</leftLat>
+    <leftLong>116.350184</leftLong>
+    <rightLat>39.961711</rightLat>
+    <rightLong>116.350913</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30）</opentime>
+    <introduction>女生宿舍，北侧一层有清泉洗衣房，南侧地下室有教工活动中心和学生工作基地。</introduction>
+    <news>2011-12-6 宿舍总动员系列活动之宿舍作品征集大赛	2011-11-20 北京邮电大学“宿舍总动员”之宿舍开放日活动</news>    
+    </building>
+    <building>
+   	<number>10</number>
+    <name>学五</name>
+    <leftLat>39.96209</leftLat>
+    <leftLong>116.349307</leftLong>
+    <rightLat>39.9623553</rightLat>
+    <rightLong>116.350034</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30）</opentime>
+    <introduction>男生宿舍，南侧地下室为教材中心，并有复印室以及正装门点。</introduction>
+    <news>2011-12-6 宿舍总动员系列活动之宿舍作品征集大赛	2011-11-20 北京邮电大学“宿舍总动员”之宿舍开放日活动</news>    
+    </building>
+    <building>
+   	<number>11</number>
+    <name>学六</name>
+    <leftLat>39.962999</leftLat>
+    <leftLong>116.351809</leftLong>
+    <rightLat>39.963548</rightLat>
+    <rightLong>116.352418</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30）</opentime>
+    <introduction>本科生男生宿舍，六人间上下铺。一层有洗衣房，从校园外入北侧地下为浩沙健身。</introduction>
+    <news>2011-12-6 宿舍总动员系列活动之宿舍作品征集大赛	2011-11-20 北京邮电大学“宿舍总动员”之宿舍开放日活动</news>    
+    </building>
+    <building>
+   	<number>12</number>
+    <name>学八</name>
+    <leftLat>39.962125</leftLat>
+    <leftLong>116.35015</leftLong>
+    <rightLat>39.962369</rightLat>
+    <rightLong>116.350889</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30），心理健康教育中心电话：62282677邮箱：xinxin@bupt.edu.cn地点：学生八公寓125公寓中心电话：62282714/62283713邮箱：xscgyzx@gmail.com地点：学生八公寓213军事教研室电话：62282035</opentime>
+    <introduction>研究生宿舍，并有心理健康教育中心、公寓中心、军事教研室。东侧地下有台球室、电脑维修、软件售卖、缝纫店。</introduction>
+    <news>2011-12-6 宿舍总动员系列活动之宿舍作品征集大赛	2011-11-20 北京邮电大学“宿舍总动员”之宿舍开放日活动	2011-10-26 2011～2012学年经管09级心理委员培训会</news>
+    </building>
+    <building>
+   	<number>13</number>
+    <name>学九</name>
+    <leftLat>39.9628717</leftLat>
+    <leftLong>116.349084</leftLong>
+    <rightLat>39.96305</rightLat>
+    <rightLong>116.349615</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30），心理健康教育中心电话：62282677邮箱：xinxin@bupt.edu.cn地点：学生八公寓125公寓中心电话：62282714/62283713邮箱：xscgyzx@gmail.com地点：学生八公寓213军事教研室电话：62282035</opentime>
+    <introduction>本科生男生宿舍。</introduction>
+    <news>2011-12-6 宿舍总动员系列活动之宿舍作品征集大赛	2011-11-20 北京邮电大学“宿舍总动员”之宿舍开放日活动</news>    
+    </building>
+    <building>
+   	<number>14</number>
+    <name>学十</name>
+    <leftLat>39.962921</leftLat>
+    <leftLong>116.350065</leftLong>
+    <rightLat>39.963451</rightLat>
+    <rightLong>116.350855</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30）</opentime>
+    <introduction>始建于2009年，完工于2011年，北邮最新最大的男生宿舍楼。</introduction>
+    <news>2011-12-19 市教委检查组莅临我校学生公寓检查指导工作	2011-12-15 12月20日(周二)9:00至17:00点对学10楼网络进行调整	2011-12-6 宿舍总动员系列活动之宿舍作品征集大赛</news>
+    </building>
+    <building>
+   	<number>15</number>
+    <name>学十一</name>
+    <leftLat>39.963197</leftLat>
+    <leftLong>116.349386</leftLong>
+    <rightLat>39.96342</rightLat>
+    <rightLong>116.349918</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30）</opentime>
+    <introduction>两侧为上下铺以外，其余均为四人间上床下桌。洗漱使用公共水房，每层东西各一间。无阳台，走廊设有晾衣绳。</introduction>
+    <news>2011-12-17 停暖抢修的通知	2011-12-6 宿舍总动员系列活动之宿舍作品征集大赛	2011-11-20 北京邮电大学“宿舍总动员”之宿舍开放日活动</news>
+    </building>
+    <building>
+   	<number>16</number>
+    <name>学十三</name>
+    <leftLat>39.961161</leftLat>
+    <leftLong>116.349107</leftLong>
+    <rightLat>39.962161</rightLat>
+    <rightLong>116.349207</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30）</opentime>
+    <introduction>女生宿舍楼，以八人间上下铺为主。</introduction>
+    <news>2011-12-17 停暖抢修的通知	2011-12-6 宿舍总动员系列活动之宿舍作品征集大赛	2011-11-20 北京邮电大学“宿舍总动员”之宿舍开放日活动</news>
+    </building>
+    <building>
+   	<number>17</number>
+    <name>学二十九</name>
+    <leftLat>39.961118</leftLat>
+    <leftLong>116.354292</leftLong>
+    <rightLat>39.961681</rightLat>
+    <rightLong>116.354685</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30）</opentime>
+    <introduction>研究生宿舍，三室一厅的套间。</introduction>
+    <news>2011-12-6 宿舍总动员系列活动之宿舍作品征集大赛	2011-11-20 北京邮电大学“宿舍总动员”之宿舍开放日活动</news>
+    </building>
+    <building>
+   	<number>18</number>
+    <name>留学生公寓</name>
+    <leftLat>39.962453</leftLat>
+    <leftLong>116.349321</leftLong>
+    <rightLat>39.962633</rightLat>
+    <rightLong>116.349896</rightLong>
+    <opentime>6:30-23:30（周五、周六及节假日熄灯时间为次日0:30）</opentime>
+    <introduction>留学生宿舍。</introduction>
+    <news>2011-11-31 人文学院国际汉语培训中心改造工程获验收	2011-6-30 人文学院国际汉语培训中心留学生结业式顺利举办	2011-4-2 国际处开展留学生公寓安全检查工作</news>
+    </building>
+    <building>
+   	<number>19</number>
+    <name>篮球场</name>
+    <leftLat>39.961019</leftLat>
+    <leftLong>116.352684</leftLong>
+    <rightLat>39.96166</rightLat>
+    <rightLong>116.353704</rightLong>
+    <opentime>8:00-21:00（周六：10:00-12:00）上课时间：10:00-12:00,13:00-16:30</opentime>
+    <introduction>大家上课、锻炼的好场所，周末常有篮球比赛。</introduction>
+    <news>2011-11-27 经济管理学院11级研究生趣味运动会	2011-11-19 北京邮电大学2011年团学骨干拓展训练	2011-11-6 “篮俱杯”女篮决赛</news>
+    </building>
+    <building>
+   	<number>20</number>
+    <name>排球场</name>
+    <leftLat>39.961029</leftLat>
+    <leftLong>116.353731</leftLong>
+    <rightLat>39.961682</rightLat>
+    <rightLong>116.354098</rightLong>
+    <opentime>8:00-21:00（周六：10:00-12:00）上课时间：10:00-12:00,13:00-16:30</opentime>
+    <introduction>打排球的好地方。</introduction>
+    <news>2011-11-24 计算机学院冬季体育活动暨“计高一筹”系列活动之排球赛小组赛	2011-9-18 自动化院分团委、学生会素质拓展训练	2011-6-12 网络技术研究院第二届“团队之星”趣味运动大赛</news>
+    </building>
+    <building>
+   	<number>21</number>
+    <name>体育馆</name>
+    <leftLat>39.960413</leftLat>
+    <leftLong>116.353142</leftLong>
+    <rightLat>39.960993</rightLat>
+    <rightLong>116.354735</rightLong>
+    <opentime>开放时间：10:00-12:00,14:00-22:00（周末8:00-22:00） 游泳馆开放时间：11:45-13:15（教工专场） 15:00-21:30</opentime>
+    <introduction>一些室内体育课程的授课点，内有羽毛球馆、篮球馆、形体室等等。</introduction>
+    <news>2011-12-18 第三届后勤学生创新实践基地百度校园搜索大赛	2011-11-27 自动化学院“2011华飞杯”羽毛球赛	2011-11-22至29 2011年教职工乒乓球比赛</news>
+    </building>
+    <building>
+   	<number>22</number>
+    <name>运动场</name>
+    <leftLat>39.958709</leftLat>
+    <leftLong>116.353335</leftLong>
+    <rightLat>39.960049</rightLat>
+    <rightLong>116.354802</rightLong>
+    <opentime>开放时间：6:00-21:30 上课时间：10:00-12:00,13:00-16:30 周末开放时间：10:00-12:00（体育选修） 13：00-15:00（校队训练）</opentime>
+    <introduction>全民健身的好场所，也经常有人在此练习乐器。</introduction>
+    <news>2011-12-20 网络（继续）教育学院成功举办2011年冬季趣味运动会	2011-12-4 第二十四届“一二·九”火炬接力赛	2011-11-20 计算机学院冬季体育活动“计高一筹”系列活动之趣味运动会</news>
+    </building>
+    <building>
+   	<number>23</number>
+    <name>北邮科技园</name>
+    <leftLat>39.962331</leftLat>
+    <leftLong>116.352567</leftLong>
+    <rightLat>39.963132</rightLat>
+    <rightLong>116.353149</rightLong>
+    <opentime>7:00-22:00</opentime>
+    <introduction>目前开放了一些房间供考研自习用。</introduction>
+    <news>2011-12-13 我校承担的国家863计划高频段无线信道测量、建模与仿真重点项目课题验收答辩会	2011-10-16 开放考研自习室	2011-3-23 中关村管委会副主任王汝芳一行访问我校大学科技园</news>
+    </building>
+    <building>
+   	<number>24</number>
+    <name>网络中心辅导员基地</name>
+    <leftLat>39.958917</leftLat>
+    <leftLong>116.352563</leftLong>
+    <rightLat>39.959143</rightLat>
+    <rightLong>116.353119</rightLong>
+    <opentime>辅导员管理科一科电话：62282279/62282411邮箱：fdy1@bupt.edu.cn地点：211、213辅导员管理科二科电话：62283405/62282933邮箱：fdy2@bupt.edu.cn地点：205辅导员管理科三科电话：62282854/62282198邮箱：fdy3@bupt.edu.cn地点：212辅导员管理科四科电话：62281326/62283521邮箱：fdy1@bupt.edu.cn地点：208</opentime>
+    <introduction>交网费去一楼，找导员去二楼，上面也有实验室。</introduction>
+    <news>2011-12-21 计算机学院本科2008级（4）党支部召开转正和发展会议	2011-12-13 计算机学院2009级本科二党支部党员发展大会	2011-12-12 电子工程学院2008级本科党支部预备党员转正大会</news>
+    </building>
+    <building>
+   	<number>25</number>
+    <name>学生活动中心</name>
+    <leftLat>39.962464</leftLat>
+    <leftLong>116.351018</leftLong>
+    <rightLat>39.962964</rightLat>
+    <rightLong>116.351368</rightLong>
+    <opentime>开放时间：7:00-23:00</opentime>
+    <introduction>各社团举办小型活动的场所，也是艺术团体排练之处，校学生会以及团委的办公地点。</introduction>
+    <news>2011-12-19 计算机学院分团委、学生会年终联欢会	2011-11-27 后勤学生创新实践基地开展素质拓展活动	2011-11-6 北京邮电大学学生会2011年素质拓展训练</news>
+    </building>
+    <building>
+   	<number>26</number>
+    <name>行政楼</name>
+    <leftLat>39.960809</leftLat>
+    <leftLong>116.351488</leftLong>
+    <rightLat>39.960995</rightLat>
+    <rightLong>116.351907</rightLong>
+    <opentime></opentime>
+    <introduction>也称“小白楼”，学校主要行政机关办公的地方。</introduction>
+    <news>2011-12-15 北京邮电大学——电联工程技术有限公司爱心助学金签约及颁发仪式	2011-11-23 2010—2011学年学生评优表彰大会	2011-10-15 北京邮电大学五十六周年校庆系列活动之二海外校友归国讲坛</news>
+    </building>
+    <building>
+   	<number>27</number>
+    <name>校医院</name>
+    <leftLat>39.958435</leftLat>
+    <leftLong>116.350328</leftLong>
+    <rightLat>39.958783</rightLat>
+    <rightLong>116.351108</rightLong>
+    <opentime></opentime>
+    <introduction>本科生享受公费医疗，就医勿忘带学生证。</introduction>
+    <news>2011-12-24至25 校医院周末电话停用	2011-12-5至15 大三大四学生体检	2011-12-1 2011级本部学生接种乙肝疫苗第二针</news>
+    </building>
+    <building>
+   	<number>28</number>
+    <name>财务处后勤楼</name>
+    <leftLat>39.96061</leftLat>
+    <leftLong>116.351222</leftLong>
+    <rightLat>39.960955</rightLat>
+    <rightLong>116.351008</rightLong>
+    <opentime>财务处电话：010-62283795</opentime>
+    <introduction> 财务处的定位是：“管理、服务、指导、监督”。财务处是学校财务管理的职能部门，是学校唯一的一级财务机构，统一管理、指导和监督全校的财务工作，并为全校提供财务核算服务。</introduction>
+    <news>2011-12-28 上报2012年出国计划和预算	2011-11-7至13 北京邮电大学后勤处招聘综合科科长	2011-9-15 北京邮电大学后勤处处长助理岗位申请</news>
+    </building>
+    <building>
+   	<number>29</number>
+    <name>基建处保卫处</name>
+    <leftLat>39.961698</leftLat>
+    <leftLong>116.354271</leftLong>
+    <rightLat>39.962039</rightLat>
+    <rightLong>116.354685</rightLong>
+    <opentime>处长邮箱：binl@bupt.edu.cn   报警电话：010-62281100</opentime>
+    <introduction>提取户口卡的必去之处。</introduction>
+    <news>2011-12-15至22 办理我校2012年社区机动车《停车证》	2011-12-12至16 冬季安全检查工作	2011-11-9 开展“119”消防日宣传活动</news>
+    </building>
+    <building>
+   	<number>30</number>
+    <name>图书馆</name>
+    <leftLat>39.961106</leftLat>
+    <leftLong>116.351606</leftLong>
+    <rightLat>39.961836</rightLat>
+    <rightLong>116.352336</rightLong>
+    <opentime>自习室开放时间：7：00-11:00阅览室开放时间：7:00-10:00（周三及周日下午不开放）</opentime>
+    <introduction>始建于1955年，目前使用的图书馆楼于1986年落成，建筑面积为13000平方米，主库可容纳各种文献100万余册件。馆藏具有鲜明的邮电通信和电子学专业特色，是中国最大的邮电专业图书馆。现有馆藏约95万册件，其中期刊3000多种，除印刷型书刊文献外，还收藏有缩微、视听、机读等多种载体的其它文献资料。北侧一二层为新书借阅室，西侧二三层为阅览室，东侧二至四层为考研自习室。</introduction>
+    <news>2011-12-25 图书馆电子存包柜暂停使用	2011-12-15 SCI在线大讲堂讲座预告《利用Thomson Data Analyzer挖掘技术情报》	2011-11-22 图书馆外借书增加到15册</news>
+    </building>
+    <building>
+   	<number>31</number>
+    <name>科学会堂</name>
+    <leftLat>39.959592</leftLat>
+    <leftLong>116.352613</leftLong>
+    <rightLat>39.960233</rightLat>
+    <rightLong>116.353142</rightLong>
+    <opentime></opentime>
+    <introduction>北邮举办大型演出或宣讲的地方，每年的“五月鲜花”合唱比赛、各院歌手大赛、校园歌手大赛等等丰富了同学们的生活。</introduction>
+    <news>2011-12-21 计算机学院“冬计恋歌”研究生联欢晚会	2011-12-18 世纪讲坛九周年庆典暨信息产业精英论坛	2011-12-14 北京邮电大学校园文化艺术月闭幕晚会</news>
+    </building>
+    <building>
+   	<number>32</number>
+    <name>北邮科技大厦</name>
+    <leftLat>39.963007</leftLat>
+    <leftLong>116.349001</leftLong>
+    <rightLat>39.963367</rightLat>
+    <rightLong>116.349286</rightLong>
+    <opentime></opentime>
+    <introduction></introduction>
+    <news>2011-12-17 北京邮电大学北京校友会常务理事扩大会	2011-12-11 “物联网体系结构基础研究”2011年度工作会议	2011-12-5 北京邮电大学2011年博士学位授予仪式暨优秀硕士、博士学位论文颁奖会</news>
+    </building>
+    <building>
+   	<number>33</number>
+    <name>邮局</name>
+    <leftLat>39.960259</leftLat>
+    <leftLong>116.349001</leftLong>
+    <rightLat>39.960899</rightLat>
+    <rightLong>116.349247</rightLong>
+    <opentime>营业时间：8:00-17:00</opentime>
+    <introduction>南侧为储蓄业务，北侧为邮政业务。储蓄厅开设公交一卡通充值点，并有充值送手机等柜台以及活动。</introduction>
+    <news>2011-10-20 订阅2012年“两报两刊”	2011-10-19 欢迎预订2011年北京邮电大学集邮册和2012年有奖贺卡	2011-9-29 国庆假期学校邮局营业时间调整</news>
+    </building>
+    <building>
+   	<number>34</number>
+    <name>学苑超市</name>
+    <leftLat>39.962204</leftLat>
+    <leftLong>116.351324</leftLong>
+    <rightLat>39.962428</rightLat>
+    <rightLong>116.351946</rightLong>
+    <opentime>营业时间：7:00-23:00</opentime>
+    <introduction>各种食品、生活用品，里面还有古筝授课，门口有冰糖葫芦和奶茶销售。外有四个外卖窗口，米饭、米线、面、各种饼类、饮品一应俱全。</introduction>
+    <news>2011-11-22 旧饭卡、水卡停止使用	2011-10-13 学苑超市对公暂停使用现金结账	2011-8-22 新学苑超市开业</news>
+    </building>
+    <building>
+   	<number>35</number>
+    <name>超市发</name>
+    <leftLat>39.957988</leftLat>
+    <leftLong>116.351323</leftLong>
+    <rightLat>39.957988</rightLat>
+    <rightLong>116.351323</rightLong>
+    <opentime>营业时间：7:00-23:00</opentime>
+    <introduction>内有各种美食，煎饼、肉夹馍、豆浆、热面，来不及去食堂的同学们都在这里解决他们的早餐。</introduction>
+    <news>2011-10-19 8:30~11:30停电	2011-5-12 8:30~11:30停电	2010-11-12 00:10-00:40停电</news>
+    </building>
+    <building>
+   	<number>36</number>
+    <name>学林书店</name>
+    <leftLat>39.95841</leftLat>
+    <leftLong>116.350642</leftLong>
+    <rightLat>39.95841</rightLat>
+    <rightLong>116.350642</rightLong>
+    <opentime></opentime>
+    <introduction>大部分为教材和考研辅导书，资料比较齐全，也有很多优惠。</introduction>
+    <news>2011-10-10 发售考研政治大纲	2011-9-22 考研英语阅读材料到货	2011-8-30 预售考研辅导教材</news>
+    </building>
+    <building>
+   	<number>37</number>
+    <name>学生餐厅</name>
+    <leftLat>39.961867</leftLat>
+    <leftLong>116.352699</leftLong>
+    <rightLat>39.962334</rightLat>
+    <rightLong>116.353271</rightLong>
+    <opentime>营业时间：6:30-9:30,11:00-12:30,17:00-18:30</opentime>
+    <introduction>面积最大、窗口最多、菜色最全。来的人也最多。一、二层是窗口经营，就是正规食堂的样子，饭点人很多。非饭点也不关门，但是不能吃饭，食堂的西门那里有个小卖部，所以经常有人在这享受零食、饮料，甚至开会、自习。</introduction>
+    <news>2011-12-21 "北邮通"校园卡收集箱启用	2011-12-6 餐饮中心主副食售卖点开业	2011-11-22 旧饭卡、水卡停止使用</news>
+    </building>
+    <building>
+   	<number>38</number>
+    <name>新食堂</name>
+    <leftLat>39.962449</leftLat>
+    <leftLong>116.350185</leftLong>
+    <rightLat>39.962741</rightLat>
+    <rightLong>116.350739</rightLong>
+    <opentime>营业时间：6:30-9:30,11:00-12:30,17:00-18:30</opentime>
+    <introduction>一层惠风餐厅，有着很多经营风味，如兰州拉面、麻辣香锅、台湾卤肉饭、炒饼炒粉、桂林风味等等，也有各种套餐等基本伙食，菜价平均每餐8元上下；二层学宜餐厅，作为学生基本伙快餐，基本集成了原学苑餐厅的特色，属于柜台式经营，另提供各种面食、小糕点等，另外有两个特色风味窗口；三层——时尚餐厅可作为零点和宴会的餐厅，适合聚会、咖啡休闲等，基本继承了原楼上楼餐厅的特色，环境非常好，属于点菜类餐厅，有各种小炒，价格大致在人均30元上下；四层民族餐厅，民族餐厅不仅涵盖清真餐厅的菜品，而且增加了回转寿司，非常适合校内班级或社团聚餐。</introduction>
+    <news>2011-12-21 "北邮通"校园卡收集箱启用	2011-11-26 “等待·雪”西点创意大赛	2011-11-21 新旧饭卡的切换</news>
+    </building>
+ 		<building>
+   	<number>39</number>
+    <name>教工餐厅</name>
+    <leftLat>39.962017</leftLat>
+    <leftLong>116.352155</leftLong>
+    <rightLat>39.962404</rightLat>
+    <rightLong>116.352356</rightLong>
+    <opentime>开放时间：10:30-21:00</opentime>
+    <introduction>北邮装潢最好的食堂，有套餐、饮品以及炒菜。</introduction>
+    <news>2011-10-27 教工餐厅开设快餐	2011-8-30 教工餐厅试营业	2011-6-7 教工餐厅开始改造</news>
+    </building>
+    <building>
+   	<number>40</number>
+    <name>综合服务楼</name>
+    <leftLat>39.962551</leftLat>
+    <leftLong>116.351446</leftLong>
+    <rightLat>39.96291</rightLat>
+    <rightLong>116.352261</rightLong>
+    <opentime>浴室开放时间：12:00-23:00 联通营业厅营业时间：10:00-19:00 热水房开放时间：7:30-8:30,11:30-14:30,17:30-19:00,22:00-23:00</opentime>
+    <introduction>综合服务楼，共五层，主体是学生浴室，并有很多方便同学生活的服务小站。一层设有联通营业厅、复印店、眼镜店、一卡通充值点；二层为男生浴室以及理发店；三层为女生浴室；四层为实验室。</introduction>
+    <news>2011-12-21 "北邮通"校园卡收集箱启用	2011-11-22 旧饭卡、水卡停止使用	2011-11-21至27 浴室设施改造</news>
+    </building>
+</BuildingSet>

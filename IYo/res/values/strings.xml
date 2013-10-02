@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, IBuptActivity!</string>
+    <string name="app_name">iBupt</string>
+    <string name="NoNews"></string>
+    <string name="classroom">自习室</string>
+    <string name="roam">    Sorry，this service cannot be available at     present time 
+                          o(╯□╰)o</string>
+
+</resources>

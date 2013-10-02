@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <LinearLayout android:layout_width="match_parent" android:id="@+id/linearLayout1" android:orientation="vertical" android:layout_height="match_parent" android:background="@drawable/highscore" android:weightSum="1">
+        <LinearLayout android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/LinearLayout01" android:weightSum="1">
+            <TextView android:layout_width="match_parent" android:layout_gravity="center_horizontal" android:text="@string/strScore" android:paddingTop="10px" android:paddingLeft="50px" android:textSize="28px" android:layout_height="wrap_content" android:id="@+id/textViewHighScoreTitle"></TextView>
+        </LinearLayout>
+        <LinearLayout android:layout_width="match_parent" android:id="@+id/LinearLayout02" android:weightSum="1" android:layout_height="wrap_content">
+            <TextView android:layout_width="134dp" android:layout_height="46dp" android:text="@string/strUserName" android:paddingLeft="10px" android:paddingTop="5px"  android:textSize="15px" android:textStyle="bold" android:textColor="@color/strGray" android:id="@+id/textViewUserName"></TextView>
+            <TextView android:layout_width="match_parent" android:layout_height="46dp" android:text="@string/strScore" android:paddingLeft="10px" android:paddingTop="5px" android:textStyle="bold" android:textSize="15px" android:textColor="@color/strGray" android:id="@+id/textViewScore"></TextView>
+        </LinearLayout>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout2">
+            <TextView android:textStyle="bold" android:layout_width="134dp" android:layout_height="46dp" android:padding="10px" android:textColor="@color/strGray" android:textSize="12px" android:id="@+id/textViewUser1" android:text="@string/strNoUser"></TextView>
+            <TextView android:textStyle="bold" android:layout_width="match_parent" android:layout_height="46dp" android:layout_gravity="center_horizontal" android:padding="10px" android:textColor="@color/strGray" android:textSize="12px" android:id="@+id/textViewScoreRes1" android:text="@string/strNoUser"></TextView>
+        </LinearLayout>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout2">
+            <TextView android:textStyle="bold" android:layout_width="134dp" android:layout_height="46dp" android:padding="10px" android:textColor="@color/strGray" android:textSize="12px" android:id="@+id/textViewUser2" android:text="@string/strNoUser"></TextView>
+            <TextView android:textStyle="bold" android:layout_width="match_parent" android:layout_height="46dp" android:layout_gravity="center_horizontal" android:padding="10px" android:textColor="@color/strGray" android:textSize="12px" android:id="@+id/textViewScoreRes2" android:text="@string/strNoUser"></TextView>
+        </LinearLayout>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout2">
+            <TextView android:textStyle="bold" android:layout_width="134dp" android:layout_height="46dp" android:padding="10px" android:textColor="@color/strGray" android:textSize="12px" android:id="@+id/textViewUser3" android:text="@string/strNoUser"></TextView>
+            <TextView android:textStyle="bold" android:layout_width="match_parent" android:layout_height="46dp" android:layout_gravity="center_horizontal" android:padding="10px" android:textColor="@color/strGray" android:textSize="12px" android:id="@+id/textViewScoreRes3" android:text="@string/strNoUser"></TextView>
+        </LinearLayout>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout2">
+            <TextView android:textStyle="bold" android:layout_width="134dp" android:layout_height="46dp" android:padding="10px" android:textColor="@color/strGray" android:textSize="12px" android:id="@+id/textViewUser4" android:text="@string/strNoUser"></TextView>
+            <TextView android:textStyle="bold" android:layout_width="match_parent" android:layout_height="46dp" android:layout_gravity="center_horizontal" android:padding="10px" android:textColor="@color/strGray" android:textSize="12px" android:id="@+id/textViewScoreRes4" android:text="@string/strNoUser"></TextView>
+        </LinearLayout>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout2">
+            <TextView android:textStyle="bold" android:layout_width="134dp" android:layout_height="46dp" android:padding="10px" android:textColor="@color/strGray" android:textSize="12px" android:id="@+id/textViewUser5" android:text="@string/strNoUser"></TextView>
+            <TextView android:textStyle="bold" android:layout_width="match_parent" android:layout_height="46dp" android:layout_gravity="center_horizontal" android:padding="10px" android:textColor="@color/strGray" android:textSize="12px" android:id="@+id/textViewScoreRes5" android:text="@string/strNoUser"></TextView>
+        </LinearLayout>
+
+    </LinearLayout>
+    
+</LinearLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <RelativeLayout android:id="@+id/relativeLayout1" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/gamebackground">
+        <LinearLayout android:layout_width="wrap_content" android:id="@+id/linearLayout1" android:layout_height="wrap_content" android:weightSum="1" android:layout_alignParentTop="true" android:layout_alignParentLeft="true" android:layout_alignParentRight="true">
+            <ImageView android:layout_height="wrap_content" android:src="@drawable/time" android:layout_width="wrap_content" android:layout_weight="0.32" android:id="@+id/imageViewTime"></ImageView>
+            <ImageView android:layout_height="wrap_content" android:src="@drawable/progresser" android:layout_width="wrap_content" android:id="@+id/imageViewProgresserTime"></ImageView>
+        </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content" android:orientation="vertical" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignParentRight="true" android:layout_alignParentLeft="true" android:weightSum="1" android:id="@+id/layoutQuestion2">
+            <LinearLayout android:background="@drawable/questiontext11" android:layout_height="wrap_content" android:paddingLeft="14px" android:paddingTop="5px" android:layout_width="match_parent" android:id="@+id/layoutQuestion1">
+                <ImageView android:src="@drawable/hexagon2" android:layout_width="wrap_content" android:layout_height="77dp" android:id="@+id/imageViewQuestion11"></ImageView>
+                <ImageView android:src="@drawable/triangle2" android:layout_width="wrap_content" android:layout_height="73dp" android:id="@+id/imageViewQuestion12"></ImageView>
+                <ImageView android:layout_width="wrap_content" android:layout_height="77dp" android:src="@drawable/square2" android:id="@+id/imageViewQuestion13"></ImageView>
+                <ImageView android:layout_width="wrap_content" android:layout_height="77dp" android:src="@drawable/shapeepual" android:id="@+id/imageViewQuestion14"></ImageView>
+                <TextView android:text="@string/strShapeNum" android:layout_width="match_parent" android:textSize="25px" android:layout_height="68dp" android:paddingTop="15px" android:paddingLeft="5px" android:textStyle="bold" android:textColor="@color/strShape" android:id="@+id/textViewQuestion1"></TextView>
+            </LinearLayout>
+           <LinearLayout android:background="@drawable/questiontext22" android:layout_height="wrap_content" android:id="@+id/linearLayout12" android:layout_gravity="right" android:layout_weight="1" android:layout_width="wrap_content" android:paddingLeft="25px">
+               <ImageView android:layout_gravity="center_vertical" android:src="@drawable/star2" android:layout_width="33dp" android:layout_height="32dp" android:id="@+id/imageViewQuestion21"></ImageView>
+                <ImageView android:layout_gravity="center_vertical" android:src="@drawable/triangle2" android:layout_width="32dp" android:layout_height="29dp" android:id="@+id/imageViewQuestion22"></ImageView>
+                <ImageView android:src="@drawable/square2" android:layout_width="33dp" android:layout_height="wrap_content" android:layout_gravity="center_vertical" android:id="@+id/imageViewQuestion23"></ImageView>
+                <ImageView android:layout_gravity="center_vertical" android:layout_width="33dp" android:src="@drawable/shapeepual" android:layout_height="wrap_content" android:id="@+id/imageViewQuestion24"></ImageView>
+                <TextView android:text="@string/strNum2" android:textSize="20px" android:paddingTop="27px" android:textStyle="bold" android:textColor="@color/strGray" android:layout_width="wrap_content" android:layout_height="match_parent" android:id="@+id/textViewQuestion2"></TextView>
+           </LinearLayout> 
+        </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content" android:orientation="vertical" android:id="@+id/linearLayout6" android:layout_height="wrap_content" android:layout_below="@+id/linearLayout4" android:layout_alignParentRight="true" android:layout_alignParentLeft="true">
+        </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content" android:id="@+id/linearLayout7" android:layout_height="wrap_content" android:layout_below="@+id/linearLayout6" android:layout_alignParentRight="true" android:layout_alignParentLeft="true" android:weightSum="1">
+        </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content" android:id="@+id/linearLayout2" android:layout_height="wrap_content" android:layout_below="@+id/linearLayout1" android:layout_alignParentRight="true" android:layout_alignParentLeft="true" android:weightSum="1">
+            <ImageView android:src="@drawable/result" android:layout_width="wrap_content" android:layout_weight="0.16" android:layout_height="wrap_content" android:id="@+id/imageViewResult"></ImageView>
+        </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content" android:id="@+id/linearLayout3" android:layout_height="wrap_content" android:layout_below="@+id/linearLayout2" android:layout_marginTop="29dp" android:weightSum="1" android:layout_above="@+id/linearLayout4">
+            <LinearLayout android:id="@+id/linearLayout8" android:layout_height="match_parent" android:layout_width="match_parent" android:paddingRight="10px" android:weightSum="1">
+                <ImageView android:src="@drawable/yes" android:layout_width="wrap_content" android:layout_weight="2.44" android:layout_height="wrap_content" android:id="@+id/imageViewRightRes"></ImageView>
+                <TextView android:textStyle="bold" android:textColor="@color/strGray" android:hapticFeedbackEnabled="true" android:textSize="20px" android:paddingRight="1px" android:paddingTop="1px" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textViewRightRes" android:text="@string/ansNum"></TextView>
+            </LinearLayout>        
+        </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content" android:id="@+id/linearLayout9" android:layout_height="wrap_content" android:layout_alignTop="@+id/linearLayout3" android:layout_alignParentRight="true" android:layout_alignBottom="@+id/linearLayout3">
+            <ImageView android:src="@drawable/x" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/imageViewErrorRes"></ImageView>
+            <TextView android:textStyle="bold" android:textColor="@color/strGray" android:layout_height="wrap_content" android:hapticFeedbackEnabled="true" android:textSize="20px" android:paddingTop="1px" android:text="@string/ansNum" android:paddingLeft="1px" android:layout_width="97dp" android:id="@+id/textViewErrorRes"></TextView>
+        </LinearLayout>
+        <ImageView android:layout_width="132dp" android:background="@drawable/answers" android:layout_height="wrap_content" android:id="@+id/ImageViewAns" android:layout_below="@+id/layoutQuestion2" android:layout_alignParentLeft="true"></ImageView>
+        <ImageView android:src="@drawable/right1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/imageViewRight" android:layout_below="@+id/ImageViewAns" android:layout_alignParentLeft="true" android:layout_alignRight="@+id/linearLayout3"></ImageView>
+        <ImageView android:src="@drawable/error1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/imageViewError" android:layout_alignTop="@+id/imageViewRight" android:layout_alignParentRight="true" android:layout_alignLeft="@+id/linearLayout9"></ImageView>
+       
+    </RelativeLayout>
+</LinearLayout>

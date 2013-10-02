@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+     android:weightSum="1" android:background="@drawable/startbackground" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:id="@+id/relativeLayout1" android:layout_height="match_parent" android:layout_width="match_parent">
+        <ImageButton android:layout_width="105dp" android:background="@drawable/sum1" android:layout_height="95dp" android:src="@drawable/sum1" android:layout_centerVertical="true" android:layout_toLeftOf="@+id/ImageButton01" android:id="@+id/imageButtonSum"></ImageButton>
+        <ImageButton android:layout_width="wrap_content" android:background="@drawable/exit1" android:layout_height="wrap_content" android:src="@drawable/exit1" android:layout_alignParentBottom="true" android:layout_alignRight="@+id/imageButtonJudge" android:layout_marginRight="23dp" android:id="@+id/imageButtonExit"></ImageButton>
+        <ImageButton android:layout_width="wrap_content" android:id="@+id/imageButtonJudge" android:background="@drawable/judge1" android:layout_height="wrap_content" android:src="@drawable/judge1" android:layout_below="@+id/imageButtonSum" android:layout_alignParentRight="true" android:layout_marginRight="36dp"></ImageButton>
+        <ImageButton android:layout_width="105dp" android:id="@+id/ImageButtonShape" android:background="@drawable/shape1" android:layout_height="95dp" android:src="@drawable/shape1" android:layout_alignTop="@+id/imageButtonSum" android:layout_toRightOf="@+id/imageButtonSum" android:layout_marginTop="22dp"></ImageButton>
+    </RelativeLayout>
+</LinearLayout>

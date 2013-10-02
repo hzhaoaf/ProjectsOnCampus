@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FasterActivity!</string>
+    <string name="app_name">Faster</string>
+    <string name="strQuestion">  1   +    2    =    4</string>
+    <string name="strContent"></string>
+    <string name="strGray">#FF7F7C</string>
+    <string name="strJudge">眼镜蛇戴眼镜</string>
+    <string name="ansNum">   =  0</string>
+    <string name="strQuestion2">中国在东半球</string>
+    <string name="strShapeNum">12</string>
+    <string name="strNum2">10</string>
+    <string name="strDialogTitle">DialogTitle</string>
+    <string name="strDialogBody">DialogBody</string>
+    <string name="strUserName">USER</string>
+    <string name="strScore">HighScore</string>
+    <string name="strNoUser"></string>
+    <string name="strSumHelp">判断最上一行所给等式对错</string>
+    <string name="strShapeHelp">判断多个图形的边数之和</string>
+    <string name="strJudgeHelp">判断所给命题的对错</string>
+</resources>
